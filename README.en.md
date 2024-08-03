@@ -1,7 +1,7 @@
-# DM-H6215
+# DM-G6220
 
 #### Description
-DM-H6215 轮毂电机资料
+DM-G6220 中空云台电机资料
 
 #### Software Architecture
 Software architecture description
