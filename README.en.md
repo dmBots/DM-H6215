@@ -1,36 +1,16 @@
-# DM-G6220
+# DM-H6215
 
-#### Description
-DM-G6220 中空云台电机资料
+## Overview
+- Translation pending.
+- Use [README.md](README.md) as the current main entry for this model.
 
-#### Software Architecture
-Software architecture description
+## Documentation / Resources
+- [README.md](README.md) - current entry page
+- [DM-H6215轮毂电机使用教程V2.pdf](DM-H6215轮毂电机使用教程V2.pdf) - quick-start tutorial
 
-#### Installation
+## Quick Start
+- Open [README.md](README.md) first to decide whether you need the manual, host software, upgrade notes, or mechanical files.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Status
+- EN: translation pending
+- ZH: source material exists in this subtree

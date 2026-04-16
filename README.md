@@ -1,37 +1,23 @@
-# DM-G6220
+# DM-H6215
 
-#### 介绍
-DM-G6220 中空云台电机资料
+## 概述
+- 这里是 `DM-H6215` 轮毂电机的资料入口。
+- 当前目录除了说明书和图纸，还包含使用教程、上位机和升级步骤文档。
 
-#### 软件架构
-软件架构说明
+## 文档 / 资源
+- [说明书/](说明书/) - 先看型号说明和基础使用说明。
+- [DM-H6215轮毂电机使用教程V2.pdf](DM-H6215轮毂电机使用教程V2.pdf) - 适合第一次调试时按步骤阅读。
+- [轮毂上位机.exe](轮毂上位机.exe) - 轮毂电机配套上位机程序。
+- [轮毂电机升级测试步骤.docx](轮毂电机升级测试步骤.docx) - 固件升级与测试步骤说明。
+- [2D图纸/](2D图纸/) - 机械尺寸资料。
+- [3D模型/](3D模型/) - 结构集成模型。
 
+## 快速开始
+- 先看 `说明书/` 或 `DM-H6215轮毂电机使用教程V2.pdf`。
+- 如果你的任务是安装结构件，看 `2D图纸/` 和 `3D模型/`。
+- 如果你的任务是调试或升级，再看上位机和升级步骤文档。
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 状态
+- ZH: 主版入口
+- EN: Translation pending
+- TBD: 后续升级流程如需细化，另建独立流程文档
