@@ -1,16 +1,21 @@
 # DM-H6215
 
+[中文](./README.zh.md) | EN
+
 ## Overview
-- Translation pending.
-- Use [README.md](README.md) as the current main entry for this model.
 
-## Documentation / Resources
-- [README.md](README.md) - current entry page
-- [DM-H6215轮毂电机使用教程V2.pdf](DM-H6215轮毂电机使用教程V2.pdf) - quick-start tutorial
+This repository is the material entry point for $name. The material folders are normalized so Gitee and GitHub can share the same internal structure.
 
-## Quick Start
-- Open [README.md](README.md) first to decide whether you need the manual, host software, upgrade notes, or mechanical files.
+## Resources
 
-## Status
-- EN: translation pending
-- ZH: source material exists in this subtree
+- [manual/](manual/) - manuals, datasheets, and usage notes
+- [drawings/2d/](drawings/2d/) - 2D drawings, dimensions, and schematic materials
+- [models/3d/](models/3d/) - 3D models and mechanical files
+- [test-data/](test-data/) - test data, performance curves, and validation materials
+- [release-notes/](release-notes/) - release notes and change records
+
+## Structure Policy
+
+- Gitee uses Chinese as the default README.md.
+- GitHub uses English as the default README.md.
+- Subrepository links use only normalized local folders and do not depend on parent repository paths.
